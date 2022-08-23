@@ -1,0 +1,23 @@
+"boards": [
+        {
+            "id": "5e6fe82518a98c59574a7c01",
+            "name": "Egyptus",
+            "closed": false,
+            "idOrganization": "60cceceea68f41820a30d94a",
+            "pinned": false
+        },
+        {
+            "id": "62e5a7d7296fdc3708f264fb",
+            "name": "FWD - Backend & Testing",
+            "closed": false,
+            "idOrganization": "62e5a5ba2ed9d548c80001be",
+            "pinned": false
+        },
+        {
+            "id": "618b9ee25ad05b4a09592a71",
+            "name": "Teaching: Weekly Planning",
+            "closed": false,
+            "idOrganization": "618b9ccbceedbc2bac9ae70a",
+            "pinned": false
+        }
+    ]
